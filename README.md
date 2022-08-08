@@ -18,7 +18,7 @@ Follow these steps for completing your project.
 
 ## Task 2: Set up your preprocessor
 * [ ] Verify that you have SASS installed correctly by running `sass --version` in your terminal, you will need to install sass globally using either `npm` or `yarn`.
-* [ ] In your project's root folder, run the following command `sass --watch scss:css`
+* [ ] In your project's root folder, run the following command `sass --watch sass:css`
 * [ ] Verify your compiler is working correctly by changing the `background-color` on the `html` selector to `red`
 * [ ] Once you see the red screen, you can delete that style and you're ready to start on the next task
 
