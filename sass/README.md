@@ -9,3 +9,5 @@ In the `absracts` folder create a `index.scss` file, be sure to `forward` the cr
 
 
 Be sure to bring in the `abstracts` module into the `index.scss` before continuing on.
+
+> NOTE: The `index.scss` is where we will house all styles for the project
