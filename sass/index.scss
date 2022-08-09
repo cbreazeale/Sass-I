@@ -176,4 +176,11 @@ tr:nth-child(even) {
   background-color: Lightgrey;
 }
 
-
+footer {
+  display: flex;
+  justify-content: center;
+  background-color: grey;
+  color: white;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
