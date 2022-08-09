@@ -98,10 +98,67 @@ nav {
   justify-content: end;
   gap: 1rem;
   padding-bottom: 1rem;
+
+}
+a {
+    text-decoration: none;
+    color : black;
+    font-size: 1.25rem;
 }
 
 header {
   background-color: lightgrey;
   display: block;
-  
+  padding: 1.5rem;
+}
+header h1 {
+  font-size: 3rem;
+}
+.jam {
+  padding-bottom: 1.5rem;
+}
+
+.teamUp_Container {
+  padding: 1.5rem 0rem 3rem 0rem;
+  border-top: solid grey 1px;
+}
+
+.teamUp_Container p {
+  padding-bottom: 1rem;
+}
+
+button {
+  background-color: grey;
+  color: white;
+  border: none;
+  font-size: 1.25rem;
+  border-radius: 3px;
+  padding: .25rem .5rem .25rem .5rem;
+}
+
+.middle {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5rem 0rem 1.5rem 0rem;
+
+}
+
+.listenUp {
+  width: 49%;
+
+}
+
+.goodAt {
+  width: 49%;
+  display: flex;
+  flex-direction: column;
+}
+.stuff p {
+  padding: .5rem 0rem .5rem 1rem;
+  border-left: solid grey 1px;
+  border-right: solid grey 1px;;
+  border-top: solid grey 1px;
+}
+.naps {
+  border-bottom: solid grey 1px;;
 }
