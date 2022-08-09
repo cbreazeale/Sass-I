@@ -162,3 +162,18 @@ button {
 .naps {
   border-bottom: solid grey 1px;;
 }
+
+
+.bottom_table {
+  width :  100%;
+}
+
+td{
+  padding-left: .5rem;
+}
+
+tr:nth-child(even) {
+  background-color: Lightgrey;
+}
+
+
