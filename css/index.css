@@ -75,5 +75,27 @@ select {
     scroll-behavior: auto !important;
   }
 }
+html {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5;
+  padding-top: 1.5rem;
+}
+
+nav {
+  display: flex;
+  justify-content: end;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+header {
+  background-color: lightgrey;
+  display: block;
+}
 
 /*# sourceMappingURL=index.css.map */
